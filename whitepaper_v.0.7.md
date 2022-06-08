@@ -41,7 +41,11 @@ NFT art market reached $41 billion sales (end of 2021), according to the blockch
 Art besides being the prettiest commodity to invest is also already stable and decentralized value system[^4]. Investing in art is a traditional dedication of an asset to attain an increase in value over a period, opposite to investing – art collecting is an additional, closed-form communication and systematic information. By tokenizing physical art, we bring together the fields of art collecting and investing in art and create new opportunities.
 
 
-## _Art collector + investor -> value collector_
+
+***Art collector + investor -> value collector***
+
+
+
 
 **Systematic Changes**
 
@@ -292,16 +296,6 @@ Chief Architect
    </td>
   </tr>
   <tr>
-   <td>Indrė Taurosevičiūtė
-   </td>
-   <td>Project Manager
-   </td>
-   <td>Startupper and experienced project manager with mathematical and data science background.
-   </td>
-   <td><a href="https://www.linkedin.com/in/indretau/">https://www.linkedin.com/in/indretau/</a> 
-   </td>
-  </tr>
-  <tr>
    <td>Jovita Šneiderienė
    </td>
    <td>CMO
@@ -313,8 +307,6 @@ Chief Architect
   </tr>
 </table>
 
-
- \
 
 
 
@@ -339,20 +331,20 @@ SUPER HOW?’s team of blockchain professionals contributed to the development o
     3. Whitepaper​
     4. Landing page​
 2. **Design**
-    5. Tokenomics
-    6. Initial protocol design
-    7. Marketing strategy
-    8. Partnerships​
+    1. Tokenomics
+    2. Initial protocol design
+    3. Marketing strategy
+    4. Partnerships​
 3. **Development**
-    9. Protocol development
-    10. Marketing
-    11. Seed round
-    12. Strategic partnerships
+    1. Protocol development
+    2. Marketing
+    3. Seed round
+    4. Strategic partnerships
 4. **Launch**
-    13. Main net launch
-    14. Staking mechanism
-    15. Chain launch
-    16. Public sale
+    1. Main net launch
+    2. Staking mechanism
+    3. Chain launch
+    4. Public sale
 
 _Art side_
 
@@ -363,28 +355,28 @@ _Art side_
     2. Concept testing using pop art with Rob Prior
     3. Product purpose in art market analysis
 2. 
-    4. ART partnerships and advisors
-    5. Collaborative work with galleries, curators, and art appraisers
+    1. ART partnerships and advisors
+    2. Collaborative work with galleries, curators, and art appraisers
 3. 
-    6. Adapting technology to art archives
-    7. Adapting technology to art auctions
+    1. Adapting technology to art archives
+    2. Adapting technology to art auctions
 
 _Funding side_
 
 
 
-    1. 
-        1. Whale shrimp auction concept testing
-        2. First auction sale
-        3. Testing pop artist community traction
-        4. Pilot analysis, feedback from the market
-    2. 
-        5. Business model and tokenomics
-        6. Creating secondary market model
-        7. Creating ART-DEFI market model
-    3. 
-        8. Test approximations
-        9. Validation
+1. 
+     1. Whale shrimp auction concept testing
+     2. First auction sale
+     3. Testing pop artist community traction
+     4. Pilot analysis, feedback from the market
+2. 
+     1. Business model and tokenomics
+     2. Creating secondary market model
+     3. Creating ART-DEFI market model
+3. 
+     1. Test approximations
+     2. Validation
 
 _Future perspective_
 
@@ -394,8 +386,8 @@ _Future perspective_
     1. WEB 3.0 Analysis
     2. Bridge design between physical and digital
 2. 
-    3. Create future proof model
-    4. Transferring art value to future economy
+    1. Create future proof model
+    2. Transferring art value to future economy
 
 
 
@@ -415,7 +407,7 @@ We genuinely believe that emerging technologies with deep respect to fine art ca
 
 
 
-## A legal disclaimer
+### A legal disclaimer
 
 PLEASE READ THIS DISCLAIMER SECTION CAREFULLY. IF YOU ARE IN ANY DOUBT AS TO THE ACTION YOU SHOULD TAKE, YOU SHOULD CONSULT YOUR LEGAL, FINANCIAL, TAX, OR OTHER PROFESSIONAL ADVISOR(S).
 
