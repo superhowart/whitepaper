@@ -1,14 +1,3 @@
-<p style="color: red; font-weight: bold">>>>>>  gd2md-html alert:  ERRORs: 0; WARNINGs: 1; ALERTS: 4.</p>
-<ul style="color: red; font-weight: bold"><li>See top comment block for details on ERRORs and WARNINGs. <li>In the converted Markdown or HTML, search for inline alerts that start with >>>>>  gd2md-html alert:  for specific instances that need correction.</ul>
-
-<p style="color: red; font-weight: bold">Links to alert messages:</p><a href="#gdcalert1">alert1</a>
-<a href="#gdcalert2">alert2</a>
-<a href="#gdcalert3">alert3</a>
-<a href="#gdcalert4">alert4</a>
-
-<p style="color: red; font-weight: bold">>>>>> PLEASE check and correct alert issues and delete this message and the inline alerts.<hr></p>
-
-
 
 # Superhow.ART
 
@@ -54,11 +43,11 @@ Art besides being the prettiest commodity to invest is also already stable and d
 
 ## _Art collector + investor -> value collector_
 
-**Systematic Changes  **
+**Systematic Changes**
 
 Art is produced as a commodity; it doesn’t become one when it is sold[^5]. Meanwhile, tokenizing art just for the sale is not only non-sustainable but also non-practical. Tokenization of art is not separating art from its value for a frivolous trade. It creates a possibility to archive the value, its changes and systemize the processes in a blockchain. As well as other statuses of the tokenized artwork such as purchase, sale, location of the asset, provenance, information of the holders & owners, etc. 
 
-**Collective Collecting  **
+**Collective Collecting**
 
 Fractional ownership gives the possibility to share the ownership of the artwork and create improved mechanisms of status considering the needs of today’s art market without any third parties. Democratic collecting of the premium art creates a liquidity proposition for until now non-collectible art forms or particular characteristics of collectibles.
 
@@ -66,7 +55,7 @@ Fractional ownership gives the possibility to share the ownership of the artwork
 
 The market cycle has become such a predictable pattern — a prolonged period of flat trading — that it even has a cozy name: crypto winter. And art, as an already valuable asset keeps your portfolio warm and fuzzy without exiting the blockchain. Art tokens are an opportunity for crypto investors to secure and diversify their portfolios. It’s not a stable coin, but it’s stable physical investment.
 
-**No More Patronage  **
+**No More Patronage**
 
 Smart contracts give the possibility to privatize state capital, as museums are not able to maintain it but remain artworks for public use. Thus, turning patronage into a constructive investment rather than an altruistic act in which a discourse of power is formed.
 
@@ -75,15 +64,15 @@ Smart contracts give the possibility to privatize state capital, as museums are 
 
 The stability and credibility of the art market come from institutions and historical retrospectives. That is why collaboration with respectable art institutions is important, but more crucial, is to understand the needs of the art field and how blockchain technology could be beneficial for them.
 
-**Foundations **
+**Foundations**
 
 It is beneficial for foundations to tokenize their own collections because it gives a possibility to archive the value, its changes and systemize the processes in a blockchain. NFTs act as an additional validation of the form of equity while improving the liquidity of a private fund and accelerating the logistics of internal and external processes such as movement of the artworks (display, restoration and other processes affecting changes in value).
 
-**Galleries **
+**Galleries**
 
 It is beneficial for galleries to sell their art through the platform alongside NFTs because blockchain offers a new market and buyers. Clearly, the emergence of the crypto market has created a new generation of millionaires who follow completely different investment principles than traditional investors. People also have different expectations for art collecting. We believe that commercial galleries will easily adapt to new aesthetic expectations, but is it likely that NFT will sell alongside physical art since that is what the crypto buyer expects? The crypto collector will be more pleased with the representation of the value of the work in a digital wallet knowing that he owns the artwork, not the physical possession of it somewhere. 
 
-**Museums **
+**Museums**
 
 Fractional ownership gives additional options for museums development through blockchain. Collective collecting creates a niche of investment in the development and maintenance of museums. Also, blockchain technology creates an opportunity to have a decentralized archive of museums & make the changes directly. 
 
@@ -92,9 +81,9 @@ Fractional ownership gives additional options for museums development through bl
 
 # Superhow.ART 
 
-**Unique Value Proposition: **Merging art from the past collections and future investments with the new-age economy product for a decentralized society. Taking tradition to the future changes and acknowledging the critical correlation between _yesterday and tomorrow._
+**Unique Value Proposition:** Merging art from the past collections and future investments with the new-age economy product for a decentralized society. Taking tradition to the future changes and acknowledging the critical correlation between _yesterday and tomorrow._
 
-**Offering: **New-age economy product for art collectors (decentralized society).
+**Offering:** New-age economy product for art collectors (decentralized society).
 
 **Audience:** Investors, collectors.
 
@@ -109,11 +98,7 @@ Fractional ownership gives additional options for museums development through bl
 **Product:** Tokenization brings together the fields of art collecting and investing in art and creates new ways and means of investing.
 
 
-
-<p id="gdcalert1" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image1.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert2">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image1.jpg "image_tooltip")
+![NFT value in Superhow.ART protocol](https://github.com/superhowart/whitepaper/raw/main/images/NFT_value.jpg)
 
 
 _Figure 1. NFT value in Superhow.ART protocol_
@@ -148,19 +133,16 @@ Benefits of Art Tokenization
 
 Superhow.ART protocol is not only about tokenization. This is a matchmaking place for art and funds where art collectors, investors, asset holders and owners are connected by the most recent blockchain solutions for next-generation art investments. It serves multiple purposes, engages community, supports art, and profits investors.
 
-The following figure shows_ (Figure 2)_ artwork digital lifecycle using Superhow.ART protocol. It all starts with an asset that is set to be digitized and digitalized. As soon as it is registered to the platform, the non-fungible token (NFT) is placed in the marketplace to be distributed. Each artwork has personalized set of rules, that describes its fate after the NFT purchase. 
+The following figure shows _(Figure 2)_ artwork digital lifecycle using Superhow.ART protocol. It all starts with an asset that is set to be digitized and digitalized. As soon as it is registered to the platform, the non-fungible token (NFT) is placed in the marketplace to be distributed. Each artwork has personalized set of rules, that describes its fate after the NFT purchase. 
 
 In addition, within the protocol we focus on community engagement and artwork value augmentation to metaverse. To start with, digital twin stores artwork history and future and can be used stand-alone, duplicate or enhancement for multiple purposes. Furthermore, some gamifications on top of the digital twin are brought for community involvement to spice up the usage and endurance of the digital piece. Finally, we add governance mechanisms like vote2earn that brings decentralization and inclusion to the project.
 
 
 
-<p id="gdcalert2" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image2.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert3">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+![Asset lifecycle in Superhow.ART](https://github.com/superhowart/whitepaper/raw/main/images/Asset_lifecycle.jpg)
 
 
-![alt_text](images/image2.jpg "image_tooltip")
-
-
-_Figure 2. Asset lifecycle in Superhow.ART _
+_Figure 2. Asset lifecycle in Superhow.ART_
 
 The main purpose of the protocol is to bring physical artworks to the DEFI market. Therefore, we introduce ART backed DEFI market which shares different features than the original DEFI due to fine art value and stability. Tokenization itself brings legitimacy but powered by fine art we can bring true value and validity to the distorted NFT world.
 
@@ -225,11 +207,7 @@ Within this project we focus on the near future rather than current market strug
 Superhow.ART project is a unique ART investment platform in the sense how it serves different actors. Despite the gamification for crypto geeks, the accelerator for artists and provenance for galleries, it is a collateral instrument for different type of investors starting from institutional investors to crypto shrimps. The following NFT backed credit market model _(Figure 3)_ describes investment to the protocol flow. Everything starts with an investor. There are two scenarios in the diagram: the first one shows investment return after liquidity period, while another scenario suggests instant and regular return in small chunks that are locked in the protocol and can be reinvested to fractional or stand-alone NFTs. This is our orientation of the vision of the investment modeling, showing main concept and project direction.
 
 
-
-<p id="gdcalert3" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image3.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert4">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image3.jpg "image_tooltip")
+![NFT backed credit market model](https://github.com/superhowart/whitepaper/raw/main/images/Credit_market.jpg)
 
 
 _Figure 3. NFT backed credit market model_
@@ -240,11 +218,7 @@ _Figure 3. NFT backed credit market model_
 We are not the only ones in the market who aims to combine crypto and art. Besides the NFT world that introduces tokenized digital art, there are quite some niche and accredited projects focused on physical and fine art. Some of them are just stepping into the market shifting their business focus, while others are successfully generating revenue or raising funds. The following Gartner Magic Quadrant[^7] _(Figure 4) _visualize companies according to their ability to execute and their completeness of vision as a WEB 3.0 ready ART marketplace[^8]. In this analysis leaders have a finite vision and a roadmap for the project and have resources to execute that vision effectively. While visionaries lack the resources to carry out their vision, and challengers have less of a vision shifting their business but have capital to achieve their goals. Finally, niche players are entering the market with no clear project vision nor showing abilities to carry it out.
 
 
-
-<p id="gdcalert4" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image4.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert5">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image4.png "image_tooltip")
+![Superhow.ART competitive Gartner's analysis](https://github.com/superhowart/whitepaper/raw/main/images/Competitors.png)
 
 
 _Figure 4. Superhow.ART competitive Gartner's analysis_
