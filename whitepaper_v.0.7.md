@@ -14,16 +14,29 @@ By SUPER HOW?</p>
 
 
 
-**Table of Contents**
+##### Table of Contents
+- [Economies of ART and Crypto](#economies)
+- [Opportunities We Tackle](#opportunities)
+  - [Art Market & Transparency](#art_market)
+- [Superhow.ART](#Superhow.ART)
+  - [Protocol](#protocol)
+    - [Design](#design)
+    - [New age economy](#new_age)
+  - [Technology](#technology)
+    - [Digital twin](#twin)
+    - [Smarts Contracts](#SC)
+    - [Metadata](#metadata)
+    - [Decentralized Storage](#storage)
+  - [Let’s talk business](#business)
+    - [Market model](#market)
+    - [Competitive analysis](#competitors)
+- [Team](#team)
+  - [About SUPER HOW?](#SuperHow)
+  - [Roadmap](#roadmap)
+  - [For contributors](#contribute)
 
 
-[TOC]
-
-
-
-
-
-# Economies of ART and Crypto 
+# Economies of ART and Crypto <a name="economies"></a> 
 
 The further back in time we go, the greater the differences are between then and now. But when it comes to the future, we tend to imagine it as not that distant from today’s reality. Mostly because the future starts today, and we must rationally analyze our essential needs to create a better environment. The iconic painting “Primavera” by Sandro Botticelli is an illustration of a scene that never actually happened in classical mythology. An elaborate mythological allegory of the burgeoning fertility of the world let us create the precedent by ourselves. Despite its esthetical value, painting holds a significant historical value in western civilization. Since 1919 the artwork is exhibited at Uffizi gallery and is accessible to the public instead of being held at the palaces of Florence rulers.  Digital ecosystems are shifting now from monopolist-owned to user-owned economies together with Web 3.0 ideology as well. This umbrella term encompasses futuristic ideas of decentralization where advertising-free, community-powered, and self-monetized content reign supreme. Raise of NFTs and crypto projects are some examples of this force. Fan tokens, whether NFTs or fungible social tokens, could be what help crypto cross the chasm into mainstream adoption as more groups become owners, according to Messari Crypto thesis for 2022[^1]. Now, the NFT architecture includes marketplaces, financialization primitives, creator tools, community-oriented business models, and decentralized identity/reputation management. While DAO software consists of collaboration features as well as a voting system. Crypto funds themselves take roots in everyday life and the trend is expected to grow in the future even more. Therefore, this is just the beginning of a new era and there is a lot of places for new initiatives to thrive.
 
@@ -34,7 +47,7 @@ NFT art market reached $41 billion sales (end of 2021), according to the blockch
 
 
 
-# Opportunities We Tackle  
+# Opportunities We Tackle <a name="opportunities"></a>
 
  
 
@@ -64,7 +77,7 @@ The market cycle has become such a predictable pattern — a prolonged period of
 Smart contracts give the possibility to privatize state capital, as museums are not able to maintain it but remain artworks for public use. Thus, turning patronage into a constructive investment rather than an altruistic act in which a discourse of power is formed.
 
 
-## Art Market & Transparency
+## Art Market & Transparency <a name="art_market"></a>
 
 The stability and credibility of the art market come from institutions and historical retrospectives. That is why collaboration with respectable art institutions is important, but more crucial, is to understand the needs of the art field and how blockchain technology could be beneficial for them.
 
@@ -83,7 +96,7 @@ Fractional ownership gives additional options for museums development through bl
 
 
 
-# Superhow.ART 
+# Superhow.ART <a name="Superhow.ART"></a>
 
 **Unique Value Proposition:** Merging art from the past collections and future investments with the new-age economy product for a decentralized society. Taking tradition to the future changes and acknowledging the critical correlation between _yesterday and tomorrow._
 
@@ -108,7 +121,7 @@ Fractional ownership gives additional options for museums development through bl
 _Figure 1. NFT value in Superhow.ART protocol_
 
 
-## Protocol
+## Protocol <a name="protocol"></a>
 
 Utility value is depended on how the NFT can be used. In most cases this component is missing, or its value is vague. Superhow.ART puts a value of a real physical artwork as Utility component behind NFT through tokenization process. 
 
@@ -133,7 +146,7 @@ Benefits of Art Tokenization
 * Finally, independent, and rising artists can use this medium to list and promote their artwork instead of opting the services of expensive galleries. This also helps them gain entire ownership of their works while also avoiding payment to third-party intermediaries or agents.
 
 
-### Design
+### Design <a name="design"></a>
 
 Superhow.ART protocol is not only about tokenization. This is a matchmaking place for art and funds where art collectors, investors, asset holders and owners are connected by the most recent blockchain solutions for next-generation art investments. It serves multiple purposes, engages community, supports art, and profits investors.
 
@@ -151,7 +164,7 @@ _Figure 2. Asset lifecycle in Superhow.ART_
 The main purpose of the protocol is to bring physical artworks to the DEFI market. Therefore, we introduce ART backed DEFI market which shares different features than the original DEFI due to fine art value and stability. Tokenization itself brings legitimacy but powered by fine art we can bring true value and validity to the distorted NFT world.
 
 
-### New age economy
+### New age economy <a name="new_age"></a>
 
 Art is an asset that captures the moment: the artist’s experience, views, trends, techniques, and stories. It brings sentimental, institutional, historical, esthetical value and much more. Therefore, it is important to judge and exhibit art pieces following some specific rules. Furthermore, with the supply growth in a digital world, it is getting harder and harder to stand out and artworks are more often lost in the search. This is called a long tail problem. The curation may also help new artists to spotlight their work and create growth opportunities building recognition. In respect to the art, we assure our asset curation and responsible sales. By selling a NFT of a physical art piece, protocol provides provenance and matchmaking in such way that art rights are protected, and buyer is engaged with the digital twin purchase. 
 
@@ -160,19 +173,19 @@ Crypto an art are two complementary assets. Art is relatively non-liquid asset w
 There are plenty of oracles with no recognition in both art and crypto fields. Here, blockchain suggests incentivization and engagement mechanisms for everyone to be heard. Together with events for community engagement and artwork exposure, vote2earn mechanisms and fractional ownership can create more aspirational participation and community building. Within Superhow.ART, we focus on investment driven art preservation. Since, art retention is costly, in our protocol everyone can become an investor and value collector.
 
 
-## Technology
+## Technology <a name="technology"></a>
 
 Superhow.ART protocol creates futuristic approach to preserve art using high-tech solutions and financial instruments. WEB 3.0 concept dictates particular characteristics like digitization, community involvement and incentivization, decentralization, automation. We approach this using emerging and well-suited technologies as digital twin, blockchain and decentralized storage. These are complementary instruments used for many different purposes, and we are empowering them to bring art to the new era.
 
 
-### Digital twin
+### Digital twin <a name="twin"></a>
 
 Digital Twin technology is an emerging concept that has become the center of attention for industry and, in more recent years, academia. A digital twin is a virtual representation that serves as the real-time digital counterpart of a physical object or process. A digital twin is an exact virtual representation of a physical object in the digital world. In other words, it takes a real-life object and creates an exact copy of the that same object in the digital world. Though the concept originated earlier (attributed to Michael Grieves, then of the University of Michigan, in 2002) the first practical definition of digital twin originated from NASA to improve physical model simulation of spacecraft in 2010.[^6] Digital twins are one of the metaverse’s core building blocks because of their intrinsic qualities. While the metaverse can help us create virtual worlds and experiences beyond our dreams, it will also be useful in constructing exact replicas of reality. With their inherent features and functionalities, digital twins can bring realism to the digital world.
 
 The metaverse technology, on the other hand, represents a comprehensive virtual world, where everything and everyone interacts similarly to what we would do in the real world. Thus, metaverse provides augmented reality and allows to organize thoughts, ideas, and feelings in the same manner as we organize our wardrobe in the real world. The concept of metaverse has gained a lot of prominence after several cryptocurrency networks adopted the technology. With the metaverse technology, a virtual reality becomes a persistent virtual environment that exists even when you are not engaging with it. Additionally, the metaverse also has its own digital economy in which users can design, buy, and sell assets.
 
 
-### Smarts Contracts
+### Smarts Contracts <a name="SC"></a>
 
 A smart contract is a self-executing contract in which the terms and conditions of the contract between a seller and a buyer are written directly in the line of code. The code with the contracts is distributed and reside on a blockchain network. This computer program controls execution, and transactions that are traceable and irreversible. In simple words, smart contracts are like a program that locks funds and distribute them when certain conditions are met. This technology allows distributed trades and so is inevitable for crypto. Therefore, smart contracts allow transfer NFT of a digital twin to any other owner. Generally speaking, it is an open shell that can hold any type of information and facilitate certain automated actions.
 
@@ -191,22 +204,22 @@ This fungible token standard is an updates ERC20 that aims to allow for more sop
 It is a new token standard that combines the finest features of prior token standards to build a fungibility-agnostic, gas-efficient token contract. A single ERC1155 token contract can hold the whole system state instead of establishing a new contract for each token type, lowering deployment costs and complexity.
 
 
-### Metadata
+### Metadata <a name="metadata"></a>
 
 Generally speaking, metadata is data about data which is described by giving a structured reference that helps in sorting and identification of the properties of the content it describes. For the art use case, metadata describes digital twin, and collects high-resolution image, historical information, artwork parameters, condition, composition, investment valuation and other. Metadata is the actual object that is stored in blockchain and cannot be replaced. However, this unit augments within time capturing changes and provenance of the artworks.
 
 
-### Decentralized Storage
+### Decentralized Storage <a name="storage"></a>
 
 This is a digital brokerage service between those with excess capacity who are willing to lease it and those who need storage. Here, data is encrypted and stored in several locations, or nodes, that are run by individuals or organizations with extra disk space for a fee. The private encryption key is only held by the data owner; storage providers do not have access to the data. The files are frequently sharded and distributed across several locations, adding another degree of storage security. Decentralized storage is complementary with blockchain, which tracks storage transactions and provides other advantages such as data immutability, improved privacy, and improved overall security. 
 
 
-## Let’s talk business
+## Let’s talk business <a name="business"></a>
 
 Within this project we focus on the near future rather than current market struggles. Superhow.ART unites two markets by creating a new one that has already been researched and described by the pioneers. Some companies are carefully shifting toward this new direction, while startups are ascending. There are plenty of signs showing this market potential and so market model determines success of the project. Other than the competition, Superhow.ART focuses equally on the investment instrument as well as art value reservation. 
 
 
-### Market model
+### Market model <a name="market"></a>
 
 Superhow.ART project is a unique ART investment platform in the sense how it serves different actors. Despite the gamification for crypto geeks, the accelerator for artists and provenance for galleries, it is a collateral instrument for different type of investors starting from institutional investors to crypto shrimps. The following NFT backed credit market model _(Figure 3)_ describes investment to the protocol flow. Everything starts with an investor. There are two scenarios in the diagram: the first one shows investment return after liquidity period, while another scenario suggests instant and regular return in small chunks that are locked in the protocol and can be reinvested to fractional or stand-alone NFTs. This is our orientation of the vision of the investment modeling, showing main concept and project direction.
 
@@ -217,7 +230,7 @@ Superhow.ART project is a unique ART investment platform in the sense how it ser
 _Figure 3. NFT backed credit market model_
 
 
-### Competitive analysis
+### Competitive analysis <a name="competitors"></a>
 
 We are not the only ones in the market who aims to combine crypto and art. Besides the NFT world that introduces tokenized digital art, there are quite some niche and accredited projects focused on physical and fine art. Some of them are just stepping into the market shifting their business focus, while others are successfully generating revenue or raising funds. The following Gartner Magic Quadrant[^7] _(Figure 4) _visualize companies according to their ability to execute and their completeness of vision as a WEB 3.0 ready ART marketplace[^8]. In this analysis leaders have a finite vision and a roadmap for the project and have resources to execute that vision effectively. While visionaries lack the resources to carry out their vision, and challengers have less of a vision shifting their business but have capital to achieve their goals. Finally, niche players are entering the market with no clear project vision nor showing abilities to carry it out.
 
@@ -238,7 +251,7 @@ Finally, together with Particle, ArteQ and Artory, Superhow.ART shares the visio
 
 
 
-# Team
+# Team <a name="team"></a>
 
 Superhow.ART was founded by a team of ArtTech researchers, blockchain experts, and fine art lovers. This team is dedicated to encapsulating history with the help of emerging technologies.
 
@@ -312,7 +325,7 @@ Chief Architect
 
 
 
-## About SUPER HOW?
+## About SUPER HOW? <a name="SuperHow"></a>
 
 SUPER HOW? is a private research and development lab focused on blockchain and distributed ledger technologies. The company is a member of the BCCS cluster and the Crypto Economy Organisation and has been recognized as a Lithuanian innovative enterprise. In 2022 it was awarded as Fintech Innovator of the Year in Lithuania.
 
@@ -321,7 +334,7 @@ SUPER HOW?’s team of blockchain professionals contributed to the development o
 
 
 
-## Roadmap
+## Roadmap <a name="roadmap"></a>
 
 
 
@@ -392,7 +405,7 @@ _Future perspective_
 
 
 
-## For contributors
+## For contributors <a name="contribute"></a>
 
 We genuinely believe that emerging technologies with deep respect to fine art can create a better future and encapsulate history for generations to come. If you want to contribute to our project, you can choose your field depending on your interests and objectives:
 
